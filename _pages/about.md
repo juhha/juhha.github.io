@@ -14,7 +14,7 @@ I'm a Ph.D. candidate at [Indiana University](https://www.indiana.edu/) studying
 My current research interests include computer vision and signal processing (mostly in medical fields such as medical image/ signal classification and segmentation - see [project](/projects) page).
 
 ## Work Experience
-- Student Researcher - Medical Image Analysis, Indiana University (Advisor: [Prof. Xuhong Zhang](https://luddy.indiana.edu/contact/profile/?Xuhong_Zhan)), 2021.06 - present
+- Research Assistant - Medical Image Analysis, Indiana University (Advisor: [Prof. Xuhong Zhang](https://luddy.indiana.edu/contact/profile/?Xuhong_Zhan)), 2021.06 - present
 
 - Research Intern, [Smart Health Lab](http://smarthealthlab.skku.edu/) at [Samsung Medical Center](http://www.samsunghospital.com/home/main/index.do), Korea, 2019.09 - 2021.08
 
