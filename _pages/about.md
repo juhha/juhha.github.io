@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate at [Indiana University](https://www.indiana.edu/) studying in [Computer Science](https://cs.indiana.edu/). I am currently working with [Prof. Xuhong Zhang](https://luddy.indiana.edu/contact/profile/?Xuhong_Zhang).
+I'm a Ph.D. student at [Indiana University](https://www.indiana.edu/) studying in [Computer Science](https://cs.indiana.edu/). I am currently working with [Prof. Xuhong Zhang](https://luddy.indiana.edu/contact/profile/?Xuhong_Zhang).
 
 ## Research Interests
 My current research interests include computer vision and signal processing (mostly in medical fields such as medical image/ signal classification and segmentation - see [project](/projects) page).
